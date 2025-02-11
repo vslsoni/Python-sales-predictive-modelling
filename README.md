@@ -52,7 +52,7 @@ Metrics used for evaluation:
 ## Gradio Interface
 The deployed model is accessible via a **Gradio web interface**, where users provide the following inputs:
 - **Store ID** (1-1115)
-- **Customer Count**
+- **Customer Count (Customer Count is any visitor to the shop not just people that buy a product)**
 - **Promotion Status** (Promo, Promo2)
 - **State Holiday Type**
 - **School Holiday Indicator**
